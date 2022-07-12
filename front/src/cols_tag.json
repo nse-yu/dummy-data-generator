@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "id",
+        "name_jp": "個人番号",
+        "include_char": true
+    },
+    {
+        "id": 2,
+        "name": "name",
+        "name_jp": "氏名",
+        "separate_name": false 
+    },
+    {
+        "id": 3,
+        "name": "place",
+        "name_jp": "場所"
+    },
+    {
+        "id": 4,
+        "name": "number",
+        "name_jp": "数",
+        "from": 0,
+        "to": 10,
+        "is_decimal": false
+    },
+    {
+        "id": 5,
+        "name": "date",
+        "name_jp": "日付"
+    },
+    {
+        "id": 6,
+        "name": "time",
+        "name_jp": "時間"
+    },
+    {
+        "id": 7,
+        "name": "address",
+        "name_jp": "住所",
+        "separate_address": true
+    },
+    {
+        "id": 8,
+        "name": "phone",
+        "name_jp": "電話番号"
+    },
+    {
+        "id": 9,
+        "name": "text",
+        "name_jp": "文字列",
+        "len":5
+    }
+]
